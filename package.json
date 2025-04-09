@@ -1,0 +1,11 @@
+{
+  "name": "phuong-website",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx watch-http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
